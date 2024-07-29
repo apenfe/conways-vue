@@ -36,6 +36,6 @@ function updateTable(row,col){
 
 </script>
 
-<style scoped>
+<style scoped lang="scss"> 
 
 </style>

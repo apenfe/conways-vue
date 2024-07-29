@@ -10,6 +10,6 @@ import ConwaysGame from './components/ConwaysGame.vue';
 
 </script>
 
-<style>
+<style lang="scss">
 
 </style>
